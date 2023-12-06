@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "ReactNativeStudy",
+    "slug": "ReactNativeStudy",
+    "sdkVersion": "49.0.0"
+  },
+  "name": "reactnativestudy"
+}
